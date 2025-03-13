@@ -7,10 +7,10 @@ Este es un **keylogger educativo** en Python, diseñado para **demostrar la impo
 ---
 
 ## 🗂️ Características  
-✔ Captura las teclas presionadas en un sistema  
-✔ Guarda el registro en un archivo `keylog.txt`  
-✔ Envía el archivo por **correo electrónico** automáticamente  
-✔ **Código personalizable** con configuración fácil  
+▪️ Captura las teclas presionadas en un sistema  
+▪️ Guarda el registro en un archivo `keylog.txt`  
+▪️ Envía el archivo por **correo electrónico** automáticamente  
+▪️ **Código personalizable** con configuración fácil  
 
 ---
 
@@ -40,7 +40,7 @@ python keylogger.py
 
 El keylogger funcionará en segundo plano, enviando los registros por correo cada 60 segundos.
 
-##⚡ Recomendaciones de Seguridad
+## ⚡ Recomendaciones de Seguridad
 
 <br>
 ♾️ Usar solo en entornos de prueba o con autorización explícita.
