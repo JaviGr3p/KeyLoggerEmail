@@ -31,7 +31,7 @@ Reemplaza tu_email@gmail.com y tu_contraseña con tus credenciales (usa una App 
 Cambia destinatario@gmail.com por el correo donde recibirás los registros.
 ```
 
-##🚦 Uso
+## 🚦 Uso
 
 Ejecuta el script:
 ```bash
@@ -40,12 +40,17 @@ python keylogger.py
 
 El keylogger funcionará en segundo plano, enviando los registros por correo cada 60 segundos.
 
-⚡ Recomendaciones de Seguridad
-♾️ Usar solo en entornos de prueba o con autorización explícita.
-♾️ No ejecutar en sistemas de terceros sin permiso.
-♾️ Eliminar los registros después de la prueba para evitar exposición de datos.
+##⚡ Recomendaciones de Seguridad
 
-##🗝️ Licencia
+<br>
+♾️ Usar solo en entornos de prueba o con autorización explícita.
+<br>
+♾️ No ejecutar en sistemas de terceros sin permiso.
+<br>
+♾️ Eliminar los registros después de la prueba para evitar exposición de datos.
+<br>
+
+## 🗝️ Licencia
 Este proyecto es de uso educativo. No nos hacemos responsables del mal uso de este código.
 
 ☘︎ Desarrollado por J4Gr3p 🏍️
